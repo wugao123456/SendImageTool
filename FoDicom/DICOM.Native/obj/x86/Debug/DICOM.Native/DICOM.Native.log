@@ -1,0 +1,156 @@
+﻿生成启动时间为 2016-02-29 14:11:20。
+     1>项目“E:\Project\SendImagesTool\FoDicom\DICOM.Native\x86\DICOM.Native.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x86\Debug\DICOM.Native\\" /Fd"..\obj\x86\Debug\DICOM.Native\vc120.pdb" /TP /wd4691 /FUE:\Project\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.dll /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.ComponentModel.Composition.dll" /analyze- /errorReport:prompt /clr:nostdlib ..\AssemblyInfo.cpp ..\Dicom.Imaging.Codec.Jpeg.cpp ..\Dicom.Imaging.Codec.Jpeg2000.cpp ..\Dicom.Imaging.Codec.JpegLS.cpp ..\Dicom.Imaging.Codec.Jpeg_12.cpp ..\Dicom.Imaging.Codec.Jpeg_16.cpp ..\Dicom.Imaging.Codec.Jpeg_8.cpp ..\Dicom.Imaging.Codec.Rle.cpp ..\DicomNativeExt.cpp
+         AssemblyInfo.cpp
+         Dicom.Imaging.Codec.Jpeg.cpp
+         Dicom.Imaging.Codec.Jpeg2000.cpp
+         Dicom.Imaging.Codec.JpegLS.cpp
+         Dicom.Imaging.Codec.Jpeg_12.cpp
+         Dicom.Imaging.Codec.Jpeg_16.cpp
+         Dicom.Imaging.Codec.Jpeg_8.cpp
+         Dicom.Imaging.Codec.Rle.cpp
+         DicomNativeExt.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x86\Debug\DICOM.Native\\" /Fd"..\obj\x86\Debug\DICOM.Native\vc120.pdb" /TP /wd4691 /analyze- /errorReport:prompt ..\CharLS\interface.cpp ..\CharLS\jpegls.cpp ..\CharLS\jpegmarkersegment.cpp ..\CharLS\jpegstreamreader.cpp ..\CharLS\jpegstreamwriter.cpp
+         interface.cpp
+         jpegls.cpp
+         jpegmarkersegment.cpp
+         jpegstreamreader.cpp
+         jpegstreamwriter.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x86\Debug\DICOM.Native\\" /Fd"..\obj\x86\Debug\DICOM.Native\vc120.pdb" /TC /wd4691 /analyze- /errorReport:prompt ..\OpenJPEG\bio.c ..\OpenJPEG\cidx_manager.c ..\OpenJPEG\cio.c ..\OpenJPEG\dwt.c ..\OpenJPEG\event.c ..\OpenJPEG\image.c ..\OpenJPEG\j2k.c ..\OpenJPEG\j2k_lib.c ..\OpenJPEG\jp2.c ..\OpenJPEG\jpt.c ..\OpenJPEG\mct.c ..\OpenJPEG\mqc.c ..\OpenJPEG\openjpeg.c ..\OpenJPEG\phix_manager.c ..\OpenJPEG\pi.c ..\OpenJPEG\ppix_manager.c ..\OpenJPEG\raw.c ..\OpenJPEG\t1.c ..\OpenJPEG\t2.c ..\OpenJPEG\tcd.c ..\OpenJPEG\tgt.c ..\OpenJPEG\thix_manager.c ..\OpenJPEG\tpix_manager.c
+         bio.c
+         cidx_manager.c
+         cio.c
+         dwt.c
+         event.c
+         image.c
+         j2k.c
+         j2k_lib.c
+         jp2.c
+         jpt.c
+         mct.c
+         mqc.c
+         openjpeg.c
+         phix_manager.c
+         pi.c
+         ppix_manager.c
+         raw.c
+         t1.c
+         t2.c
+         tcd.c
+         正在生成代码...
+         正在编译...
+         tgt.c
+         thix_manager.c
+         tpix_manager.c
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x86\Debug\DICOM.Native\\" /Fd"..\obj\x86\Debug\DICOM.Native\vc120.pdb" /TP /wd4691 /analyze- /errorReport:prompt "C:\Users\Administrator\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin\x86\Debug\DICOM.Native\Dicom.Native.dll" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\bin\x86\Debug\DICOM.Native\Dicom.Native.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /KEYFILE:"E:\Project\SendImagesTool\\FODICOM\DICOM\fo-dicom.snk" /DLL ..\obj\x86\Debug\DICOM.Native\AssemblyInfo.obj
+         ..\obj\x86\Debug\DICOM.Native\interface.obj
+         ..\obj\x86\Debug\DICOM.Native\jpegls.obj
+         ..\obj\x86\Debug\DICOM.Native\jpegmarkersegment.obj
+         ..\obj\x86\Debug\DICOM.Native\jpegstreamreader.obj
+         ..\obj\x86\Debug\DICOM.Native\jpegstreamwriter.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.Jpeg.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.Jpeg2000.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.JpegLS.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.Jpeg_12.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.Jpeg_16.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.Jpeg_8.obj
+         ..\obj\x86\Debug\DICOM.Native\Dicom.Imaging.Codec.Rle.obj
+         ..\obj\x86\Debug\DICOM.Native\DicomNativeExt.obj
+         ..\obj\x86\Debug\DICOM.Native\bio.obj
+         ..\obj\x86\Debug\DICOM.Native\cidx_manager.obj
+         ..\obj\x86\Debug\DICOM.Native\cio.obj
+         ..\obj\x86\Debug\DICOM.Native\dwt.obj
+         ..\obj\x86\Debug\DICOM.Native\event.obj
+         ..\obj\x86\Debug\DICOM.Native\image.obj
+         ..\obj\x86\Debug\DICOM.Native\j2k.obj
+         ..\obj\x86\Debug\DICOM.Native\j2k_lib.obj
+         ..\obj\x86\Debug\DICOM.Native\jp2.obj
+         ..\obj\x86\Debug\DICOM.Native\jpt.obj
+         ..\obj\x86\Debug\DICOM.Native\mct.obj
+         ..\obj\x86\Debug\DICOM.Native\mqc.obj
+         ..\obj\x86\Debug\DICOM.Native\openjpeg.obj
+         ..\obj\x86\Debug\DICOM.Native\phix_manager.obj
+         ..\obj\x86\Debug\DICOM.Native\pi.obj
+         ..\obj\x86\Debug\DICOM.Native\ppix_manager.obj
+         ..\obj\x86\Debug\DICOM.Native\raw.obj
+         ..\obj\x86\Debug\DICOM.Native\t1.obj
+         ..\obj\x86\Debug\DICOM.Native\t2.obj
+         ..\obj\x86\Debug\DICOM.Native\tcd.obj
+         ..\obj\x86\Debug\DICOM.Native\tgt.obj
+         ..\obj\x86\Debug\DICOM.Native\thix_manager.obj
+         ..\obj\x86\Debug\DICOM.Native\tpix_manager.obj
+         "..\obj\x86\Debug\DICOM.Native\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\libijg12.x86\libijg12.x86.lib
+         E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\libijg8.x86\libijg8.x86.lib
+         E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\libijg16.x86\libijg16.x86.lib
+            正在创建库 ..\bin\x86\Debug\DICOM.Native\Dicom.Native.lib 和对象 ..\bin\x86\Debug\DICOM.Native\Dicom.Native.exp
+     1>libijg16.x86.lib(jcapimin.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcapimin.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcapistd.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcapistd.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jccoefct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jccoefct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jccolor.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jccolor.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcdctmgr.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcdctmgr.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcdiffct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcdiffct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jchuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jchuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcinit.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcinit.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jclhuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jclhuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jclossls.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jclossls.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jclossy.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jclossy.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcmainct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcmainct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcmarker.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcmarker.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcmaster.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcmaster.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcodec.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcodec.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcomapi.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcomapi.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcparam.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcparam.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcphuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcphuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcpred.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcpred.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcprepct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcprepct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcsample.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcsample.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcscale.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcscale.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jcshuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jcshuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdapimin.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdapimin.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdapistd.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdapistd.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdcoefct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdcoefct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdcolor.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdcolor.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jddctmgr.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jddctmgr.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jddiffct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jddiffct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdhuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdhuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdinput.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdinput.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdlhuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdlhuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdlossls.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdlossls.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdlossy.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdlossy.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdmainct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdmainct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdmarker.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdmarker.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdmaster.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdmaster.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdmerge.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdmerge.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdphuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdphuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdpostct.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdpostct.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdpred.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdpred.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdsample.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdsample.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdscale.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdscale.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jdshuff.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jdshuff.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jerror.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jerror.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jfdctflt.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jfdctflt.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jfdctfst.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jfdctfst.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jfdctint.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jfdctint.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jidctflt.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jidctflt.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jidctfst.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jidctfst.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jidctint.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jidctint.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jidctred.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jidctred.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jmemmgr.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jmemmgr.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jmemnobs.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jmemnobs.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jquant1.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jquant1.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jquant2.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jquant2.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>libijg16.x86.lib(jutils.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“libijg16.x86.lib(jutils.obj)”或在“E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x86\Debug\DICOM.Native\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         DICOM.Native.vcxproj -> E:\Project\SendImagesTool\FoDicom\DICOM.Native\x86\..\bin\x86\Debug\DICOM.Native\Dicom.Native.dll
+     1>已完成生成项目“E:\Project\SendImagesTool\FoDicom\DICOM.Native\x86\DICOM.Native.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.24

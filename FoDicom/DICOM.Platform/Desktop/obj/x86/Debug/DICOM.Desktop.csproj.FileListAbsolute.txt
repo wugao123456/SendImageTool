@@ -1,0 +1,14 @@
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.pdb
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.pdb
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\DICOM.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\DICOM.Desktop.csprojResolveAssemblyReference.cache
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.pdb

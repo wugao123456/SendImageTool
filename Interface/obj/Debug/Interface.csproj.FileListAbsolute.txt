@@ -1,0 +1,15 @@
+E:\Project\SendImagesTool\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+E:\Project\SendImagesTool\Interface\bin\Debug\Interface.dll
+E:\Project\SendImagesTool\Interface\bin\Debug\Interface.pdb
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Core.dll
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Legacy.dll
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Native.dll
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Native64.dll
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Platform.dll
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Native64.pdb
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Native.pdb
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Platform.pdb
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Core.pdb
+E:\Project\SendImagesTool\Interface\bin\Debug\Dicom.Legacy.pdb
+E:\Project\SendImagesTool\Interface\obj\Debug\Interface.dll
+E:\Project\SendImagesTool\Interface\obj\Debug\Interface.pdb

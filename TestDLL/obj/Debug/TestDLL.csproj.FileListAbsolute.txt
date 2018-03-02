@@ -1,0 +1,4 @@
+C:\Users\wugao\Desktop\SendImagesTool\TestDLL\bin\Debug\TestDLL.dll
+C:\Users\wugao\Desktop\SendImagesTool\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\wugao\Desktop\SendImagesTool\TestDLL\obj\Debug\TestDLL.dll
+C:\Users\wugao\Desktop\SendImagesTool\TestDLL\obj\Debug\TestDLL.pdb

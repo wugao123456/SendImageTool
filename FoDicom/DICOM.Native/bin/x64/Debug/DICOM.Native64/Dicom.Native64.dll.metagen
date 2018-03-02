@@ -1,0 +1,126 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Dicom.Native64, Version=1.1.0.0, Culture=neutral, PublicKeyToken=3a13f649e28eb09a: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Dicom.Core, Version=1.1.0.0, Culture=neutral, PublicKeyToken=3a13f649e28eb09a: 
+	hash=None, flags=None
+Assembly System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Dicom.Imaging.Codec.Jpeg.JpegNativeCodec: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Decode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class Dicom.Imaging.Codec.Jpeg.Jpeg16Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.Jpeg.JpegNativeCodec
+    Void .ctor(Dicom.Imaging.Codec.Jpeg.JpegMode, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig
+Class Dicom.Imaging.Codec.Jpeg.Jpeg12Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.Jpeg.JpegNativeCodec
+    Void .ctor(Dicom.Imaging.Codec.Jpeg.JpegMode, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig
+Class Dicom.Imaging.Codec.Jpeg.Jpeg8Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.Jpeg.JpegNativeCodec
+    Void .ctor(Dicom.Imaging.Codec.Jpeg.JpegMode, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomJpegParams, Int32): PrivateScope, Public, Virtual, HideBySig
+Class Dicom.Imaging.Codec.DicomJpegNativeCodec: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+Class Dicom.Imaging.Codec.DicomJpegProcess1Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegNativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpegProcess4Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegNativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpegLossless14Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegNativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpegLossless14SV1Codec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegNativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Struct Dicom.Imaging.Codec.Jpeg.JpegMode: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Dicom.Imaging.Codec.Jpeg.JpegMode Baseline = 0 : Public, Static, Literal, HasDefault
+    Dicom.Imaging.Codec.Jpeg.JpegMode Sequential = 1 : Public, Static, Literal, HasDefault
+    Dicom.Imaging.Codec.Jpeg.JpegMode SpectralSelection = 2 : Public, Static, Literal, HasDefault
+    Dicom.Imaging.Codec.Jpeg.JpegMode Progressive = 3 : Public, Static, Literal, HasDefault
+    Dicom.Imaging.Codec.Jpeg.JpegMode Lossless = 4 : Public, Static, Literal, HasDefault
+Class Dicom.Imaging.Codec.DicomJpeg2000NativeCodec: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpeg2000Codec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+Class Dicom.Imaging.Codec.DicomJpeg2000LosslessCodec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpeg2000NativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpeg2000LossyCodec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpeg2000NativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpegLsNativeCodec: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegLsCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+Class Dicom.Imaging.Codec.DicomJpegLsLosslessCodec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegLsNativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpegLsNearLosslessCodec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomJpegLsNativeCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Dicom.DicomTransferSyntax TransferSyntax 'get ' : 
+  Methods:
+    get_TransferSyntax(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+Class Dicom.Imaging.Codec.DicomJpegLsCodecException: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomCodecException
+    Void .ctor(charls.ApiResult): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Dicom.Imaging.Codec.DicomRleNativeCodec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Dicom.Imaging.Codec.DicomRleCodec
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig
+    Decode(DicomPixelData, DicomPixelData, DicomCodecParams): PrivateScope, Public, Virtual, HideBySig

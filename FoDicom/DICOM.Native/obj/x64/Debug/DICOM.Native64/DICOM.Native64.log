@@ -1,0 +1,128 @@
+﻿生成启动时间为 2016-02-29 14:11:18。
+     1>项目“E:\Project\SendImagesTool\FoDicom\DICOM.Native\x64\DICOM.Native64.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x64\Debug\DICOM.Native64\\" /Fd"..\obj\x64\Debug\DICOM.Native64\vc120.pdb" /TP /wd4691 /FUE:\Project\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.dll /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.ComponentModel.Composition.dll" /errorReport:prompt /clr:nostdlib ..\AssemblyInfo.cpp ..\Dicom.Imaging.Codec.Jpeg.cpp ..\Dicom.Imaging.Codec.Jpeg2000.cpp ..\Dicom.Imaging.Codec.JpegLS.cpp ..\Dicom.Imaging.Codec.Jpeg_12.cpp ..\Dicom.Imaging.Codec.Jpeg_16.cpp ..\Dicom.Imaging.Codec.Jpeg_8.cpp ..\Dicom.Imaging.Codec.Rle.cpp ..\DicomNativeExt.cpp
+         AssemblyInfo.cpp
+         Dicom.Imaging.Codec.Jpeg.cpp
+         Dicom.Imaging.Codec.Jpeg2000.cpp
+         Dicom.Imaging.Codec.JpegLS.cpp
+         Dicom.Imaging.Codec.Jpeg_12.cpp
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(387): warning C4267: “-=”: 从“size_t”转换到“long”，可能丢失数据
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(410): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+         Dicom.Imaging.Codec.Jpeg_16.cpp
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(387): warning C4267: “-=”: 从“size_t”转换到“long”，可能丢失数据
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(410): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+         Dicom.Imaging.Codec.Jpeg_8.cpp
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(387): warning C4267: “-=”: 从“size_t”转换到“long”，可能丢失数据
+     1>e:\project\sendimagestool\fodicom\dicom.native\Dicom.Imaging.Codec.Jpeg.i(410): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+         Dicom.Imaging.Codec.Rle.cpp
+         DicomNativeExt.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x64\Debug\DICOM.Native64\\" /Fd"..\obj\x64\Debug\DICOM.Native64\vc120.pdb" /TP /wd4691 /errorReport:prompt ..\CharLS\interface.cpp ..\CharLS\jpegls.cpp ..\CharLS\jpegmarkersegment.cpp ..\CharLS\jpegstreamreader.cpp ..\CharLS\jpegstreamwriter.cpp
+         interface.cpp
+         jpegls.cpp
+         jpegmarkersegment.cpp
+         jpegstreamreader.cpp
+         jpegstreamwriter.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x64\Debug\DICOM.Native64\\" /Fd"..\obj\x64\Debug\DICOM.Native64\vc120.pdb" /TC /wd4691 /errorReport:prompt ..\OpenJPEG\bio.c ..\OpenJPEG\cidx_manager.c ..\OpenJPEG\cio.c ..\OpenJPEG\dwt.c ..\OpenJPEG\event.c ..\OpenJPEG\image.c ..\OpenJPEG\j2k.c ..\OpenJPEG\j2k_lib.c ..\OpenJPEG\jp2.c ..\OpenJPEG\jpt.c ..\OpenJPEG\mct.c ..\OpenJPEG\mqc.c ..\OpenJPEG\openjpeg.c ..\OpenJPEG\phix_manager.c ..\OpenJPEG\pi.c ..\OpenJPEG\ppix_manager.c ..\OpenJPEG\raw.c ..\OpenJPEG\t1.c ..\OpenJPEG\t2.c ..\OpenJPEG\tcd.c ..\OpenJPEG\tgt.c ..\OpenJPEG\thix_manager.c ..\OpenJPEG\tpix_manager.c
+         bio.c
+         cidx_manager.c
+         cio.c
+     1>..\OpenJPEG\cio.c(101): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\cio.c(119): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+         dwt.c
+         event.c
+         image.c
+         j2k.c
+     1>..\OpenJPEG\j2k.c(1586): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+         j2k_lib.c
+         jp2.c
+         jpt.c
+         mct.c
+         mqc.c
+     1>..\OpenJPEG\mqc.c(375): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+         openjpeg.c
+         phix_manager.c
+         pi.c
+         ppix_manager.c
+         raw.c
+     1>..\OpenJPEG\raw.c(57): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+         t1.c
+         t2.c
+     1>..\OpenJPEG\t2.c(297): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(398): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(427): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(429): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(432): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(434): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(437): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(542): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(545): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(618): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(653): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(676): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(711): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(741): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\OpenJPEG\t2.c(800): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+         tcd.c
+         正在生成代码...
+         正在编译...
+         tgt.c
+         thix_manager.c
+         tpix_manager.c
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /D _CRT_SECURE_NO_WARNINGS /D CHARLS_STATIC /D OPJ_STATIC /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\obj\x64\Debug\DICOM.Native64\\" /Fd"..\obj\x64\Debug\DICOM.Native64\vc120.pdb" /TP /wd4691 /errorReport:prompt "C:\Users\Administrator\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin\x64\Debug\DICOM.Native64\Dicom.Native64.dll" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\bin\x64\Debug\DICOM.Native64\Dicom.Native64.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 /KEYFILE:"E:\Project\SendImagesTool\\FODICOM\DICOM\fo-dicom.snk" /DLL ..\obj\x64\Debug\DICOM.Native64\AssemblyInfo.obj
+         ..\obj\x64\Debug\DICOM.Native64\interface.obj
+         ..\obj\x64\Debug\DICOM.Native64\jpegls.obj
+         ..\obj\x64\Debug\DICOM.Native64\jpegmarkersegment.obj
+         ..\obj\x64\Debug\DICOM.Native64\jpegstreamreader.obj
+         ..\obj\x64\Debug\DICOM.Native64\jpegstreamwriter.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.Jpeg.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.Jpeg2000.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.JpegLS.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.Jpeg_12.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.Jpeg_16.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.Jpeg_8.obj
+         ..\obj\x64\Debug\DICOM.Native64\Dicom.Imaging.Codec.Rle.obj
+         ..\obj\x64\Debug\DICOM.Native64\DicomNativeExt.obj
+         ..\obj\x64\Debug\DICOM.Native64\bio.obj
+         ..\obj\x64\Debug\DICOM.Native64\cidx_manager.obj
+         ..\obj\x64\Debug\DICOM.Native64\cio.obj
+         ..\obj\x64\Debug\DICOM.Native64\dwt.obj
+         ..\obj\x64\Debug\DICOM.Native64\event.obj
+         ..\obj\x64\Debug\DICOM.Native64\image.obj
+         ..\obj\x64\Debug\DICOM.Native64\j2k.obj
+         ..\obj\x64\Debug\DICOM.Native64\j2k_lib.obj
+         ..\obj\x64\Debug\DICOM.Native64\jp2.obj
+         ..\obj\x64\Debug\DICOM.Native64\jpt.obj
+         ..\obj\x64\Debug\DICOM.Native64\mct.obj
+         ..\obj\x64\Debug\DICOM.Native64\mqc.obj
+         ..\obj\x64\Debug\DICOM.Native64\openjpeg.obj
+         ..\obj\x64\Debug\DICOM.Native64\phix_manager.obj
+         ..\obj\x64\Debug\DICOM.Native64\pi.obj
+         ..\obj\x64\Debug\DICOM.Native64\ppix_manager.obj
+         ..\obj\x64\Debug\DICOM.Native64\raw.obj
+         ..\obj\x64\Debug\DICOM.Native64\t1.obj
+         ..\obj\x64\Debug\DICOM.Native64\t2.obj
+         ..\obj\x64\Debug\DICOM.Native64\tcd.obj
+         ..\obj\x64\Debug\DICOM.Native64\tgt.obj
+         ..\obj\x64\Debug\DICOM.Native64\thix_manager.obj
+         ..\obj\x64\Debug\DICOM.Native64\tpix_manager.obj
+         "..\obj\x64\Debug\DICOM.Native64\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x64\Debug\libijg12.x64\libijg12.x64.lib
+         E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x64\Debug\libijg16.x64\libijg16.x64.lib
+         E:\Project\SendImagesTool\FoDicom\DICOM.Native\bin\x64\Debug\libijg8.x64\libijg8.x64.lib
+            正在创建库 ..\bin\x64\Debug\DICOM.Native64\Dicom.Native64.lib 和对象 ..\bin\x64\Debug\DICOM.Native64\Dicom.Native64.exp
+         DICOM.Native64.vcxproj -> E:\Project\SendImagesTool\FoDicom\DICOM.Native\x64\..\bin\x64\Debug\DICOM.Native64\Dicom.Native64.dll
+     1>已完成生成项目“E:\Project\SendImagesTool\FoDicom\DICOM.Native\x64\DICOM.Native64.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.43

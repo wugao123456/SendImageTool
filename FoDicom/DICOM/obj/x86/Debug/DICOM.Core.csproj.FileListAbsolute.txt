@@ -1,0 +1,9 @@
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.pdb
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Core.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Core.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\DICOM.Core.csprojResolveAssemblyReference.cache
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Core.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Core.pdb

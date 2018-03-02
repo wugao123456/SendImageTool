@@ -1,0 +1,14 @@
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Platform.dll
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Platform.pdb
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Core.dll
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Core.pdb
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\obj\Debug\DICOM.Desktop.csprojResolveAssemblyReference.cache
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\obj\Debug\Dicom.Platform.dll
+D:\JPProject\FoDicom\DICOM.Platform\Desktop\obj\Debug\Dicom.Platform.pdb
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Platform.dll
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Platform.pdb
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Core.dll
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Core.pdb
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\obj\Debug\DICOM.Desktop.csprojResolveAssemblyReference.cache
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\obj\Debug\Dicom.Platform.dll
+E:\work\JPProject\FoDicom\DICOM.Platform\Desktop\obj\Debug\Dicom.Platform.pdb

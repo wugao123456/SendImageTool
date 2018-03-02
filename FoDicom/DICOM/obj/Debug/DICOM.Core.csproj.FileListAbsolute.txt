@@ -1,0 +1,10 @@
+D:\JPProject\FoDicom\DICOM\bin\Debug\Dicom.Core.dll
+D:\JPProject\FoDicom\DICOM\bin\Debug\Dicom.Core.pdb
+D:\JPProject\FoDicom\DICOM\obj\Debug\DICOM.Core.csprojResolveAssemblyReference.cache
+D:\JPProject\FoDicom\DICOM\obj\Debug\Dicom.Core.dll
+D:\JPProject\FoDicom\DICOM\obj\Debug\Dicom.Core.pdb
+E:\work\JPProject\FoDicom\DICOM\bin\Debug\Dicom.Core.dll
+E:\work\JPProject\FoDicom\DICOM\bin\Debug\Dicom.Core.pdb
+E:\work\JPProject\FoDicom\DICOM\obj\Debug\DICOM.Core.csprojResolveAssemblyReference.cache
+E:\work\JPProject\FoDicom\DICOM\obj\Debug\Dicom.Core.dll
+E:\work\JPProject\FoDicom\DICOM\obj\Debug\Dicom.Core.pdb

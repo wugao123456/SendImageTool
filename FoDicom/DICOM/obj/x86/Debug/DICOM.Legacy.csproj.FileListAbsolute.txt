@@ -1,0 +1,12 @@
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Legacy.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Legacy.pdb
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.pdb
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\DICOM.Legacy.csprojResolveAssemblyReference.cache
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Legacy.dll
+C:\Users\wugao\Desktop\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Legacy.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Legacy.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Legacy.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.pdb
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\DICOM.Legacy.csprojResolveAssemblyReference.cache
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Legacy.dll
+G:\WorkProject\SendImagesTool\FoDicom\DICOM\obj\x86\Debug\Dicom.Legacy.pdb
